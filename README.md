@@ -12,4 +12,4 @@ Over the past decade, image classification has emerged as a prominent research a
 
 ## Folder Structure 
 
-This repository contains the code we implemented to complete the multiclass classification of the Intel Image Classification Dataset. The folder models contains the multiple fine-tuned models and their respective history. The notebook analysis.ipynb was used for analyzing the dataset. The file cnn.ipynb is the main notebook that was used to train the models.
+This repository contains the code we implemented to complete the multiclass classification of the Intel Image Classification Dataset. The folder **models** contains the multiple fine-tuned models and their respective history. The notebook **analysis.ipynb** was used for analyzing the dataset. The file **cnn.ipynb** is the main notebook that was used to train the models.
