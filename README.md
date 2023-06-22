@@ -4,7 +4,9 @@ Inês Baptista (98384)
 
 Ricardo Pinto (103078)
 
-Download dataset: https://drive.google.com/file/d/1tYrowR_UF2wDQZjdrw32i90L7dzqy0Rf/view?usp=sharing
+Github repository: https://github.com/zzzzz151/TAA-Project2
+
+Download dataset (github doesn't accept more than 100MB): https://drive.google.com/file/d/1tYrowR_UF2wDQZjdrw32i90L7dzqy0Rf/view?usp=sharing
 
 ## Abstract
 
