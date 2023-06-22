@@ -24,7 +24,7 @@ This repository contains the code we implemented to complete the multiclass clas
 
 74.60% model_name=cnn1, batch_size=128, learning_rate=0.0001, model_file=models/cnn1_128_0.0001.h5
 
-78.63% model_name=cnn1, batch_size=32, learning_rate=0.001, model_file=models/cnn1_32_0.001.h5
+**78.63% model_name=cnn1, batch_size=32, learning_rate=0.001, model_file=models/cnn1_32_0.001.h5**
 
 77.83% model_name=cnn1, batch_size=128, learning_rate=0.001, model_file=models/cnn1_128_0.001.h5
 
@@ -38,7 +38,7 @@ This repository contains the code we implemented to complete the multiclass clas
 
 79.27% model_name=cnn2, batch_size=128, learning_rate=0.0001, model_file=models/cnn2_128_0.0001.h5
 
-85.13% model_name=cnn2, batch_size=32, learning_rate=0.001, model_file=models/cnn2_32_0.001.h5
+**85.13% model_name=cnn2, batch_size=32, learning_rate=0.001, model_file=models/cnn2_32_0.001.h5**
 
 84.87% model_name=cnn2, batch_size=128, learning_rate=0.001, model_file=models/cnn2_128_0.001.h5
 
@@ -58,7 +58,7 @@ This repository contains the code we implemented to complete the multiclass clas
 
 60.00% model_name=resnet, batch_size=32, learning_rate=0.01, model_file=models/resnet_32_0.01.h5
 
-62.43% model_name=resnet, batch_size=128, learning_rate=0.01, model_file=models/resnet_128_0.01.h5
+**62.43% model_name=resnet, batch_size=128, learning_rate=0.01, model_file=models/resnet_128_0.01.h5**
 
 **model_name=vgg16**
 
@@ -66,9 +66,9 @@ This repository contains the code we implemented to complete the multiclass clas
 
 84.43% model_name=vgg16, batch_size=128, learning_rate=0.0001, model_file=models/vgg16_128_0.0001.h5
 
-87.77% model_name=vgg16, batch_size=32, learning_rate=0.001, model_file=models/vgg16_32_0.001.h5
+**87.77% model_name=vgg16, batch_size=32, learning_rate=0.001, model_file=models/vgg16_32_0.001.h5
 
-87.17% model_name=vgg16, batch_size=128, learning_rate=0.001, model_file=models/vgg16_128_0.001.h5
+87.17% model_name=vgg16, batch_size=128, learning_rate=0.001, model_file=models/vgg16_128_0.001.h5**
 
 87.10% model_name=vgg16, batch_size=32, learning_rate=0.01, model_file=models/vgg16_32_0.01.h5
 
