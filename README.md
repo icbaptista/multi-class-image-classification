@@ -66,9 +66,9 @@ This repository contains the code we implemented to complete the multiclass clas
 
 84.43% model_name=vgg16, batch_size=128, learning_rate=0.0001, model_file=models/vgg16_128_0.0001.h5
 
-**87.77% model_name=vgg16, batch_size=32, learning_rate=0.001, model_file=models/vgg16_32_0.001.h5
+**87.77% model_name=vgg16, batch_size=32, learning_rate=0.001, model_file=models/vgg16_32_0.001.h5**
 
-87.17% model_name=vgg16, batch_size=128, learning_rate=0.001, model_file=models/vgg16_128_0.001.h5**
+87.17% model_name=vgg16, batch_size=128, learning_rate=0.001, model_file=models/vgg16_128_0.001.h5
 
 87.10% model_name=vgg16, batch_size=32, learning_rate=0.01, model_file=models/vgg16_32_0.01.h5
 
